@@ -1,3 +1,6 @@
+Jensen Huang — NVIDIA's CEO on the Next Generation of AI and MLOps
+Jensen shares the story of NVIDIA and deep learning and talks about his views on the future of machine learning and machine learning development.
+
 Transcript
 Note: Please submit any transcription corrections to angelica@wandb.com. Thank you!
 
